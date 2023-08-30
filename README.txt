@@ -1,0 +1,1 @@
+This patch simply loads a stereo file and plays it. It still being developed, it is a simple exercise for me to practice the audio programming basics.
